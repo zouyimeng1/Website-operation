@@ -48,28 +48,24 @@
 - 年龄主要为18岁-30岁，网络与新媒体专业学生，以及与该专业有关的，喜欢计算机，自媒体方向的人群。
 - 用户需求点：有一个可以及时、快速获取到与网络与新媒体专业知识相关的资讯以及学习分享的免费网站。
 - 用户画像分析图：
+![输入图片说明](img/%E7%94%A8%E6%88%B7%E5%9B%BE%E5%83%8F%E5%88%86%E6%9E%90.png)
+
+#### 网站规划等前期策划内容
+- 找到合适的腾讯云轻量级服务器，买好域名，做好网站备案，确定好网站架构。
+- 确定明确的网站内容主体，渐进丰富网站内容，且保证内容质量。
+- 通过对网站的推广获得早期采用的青睐，增加网站的阅读量与浏览量，提高网站的SEO搜索排名、增加网站的活跃度。
+- 通过外链与内链的形式与其它网站进行合作，增加网站的宣传与推广。
+
+#### DVF模型定义需求（待填写）
+- Desirability用户需求：
+- viability商业延续性 ：
+- Feasibility可行性：
+- DVF模型图：
+![输入图片说明](img/DVF%E5%88%86%E6%9E%90_%E7%94%BB%E6%9D%BF%201.png)
+
+#### 网站地图（待填写）
 
 
-
-
-
-
-
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 参与贡献
 
@@ -77,13 +73,3 @@
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
