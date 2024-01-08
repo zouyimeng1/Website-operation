@@ -83,6 +83,7 @@
 ## 平面设计
 #### 平面设计插件运用
 - 使用了Animate it 插件:在文章的相应位置添加了Animate it 工具，使得文章内的图片在加载过程中有了zoom in动效
+![Animate it 插件](img/Animate%20it%E6%8F%92%E4%BB%B6.png)
 ![zoom in动效](img/zoom%20in%2000_00_00-00_00_30.gif)
 
 
