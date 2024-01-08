@@ -144,7 +144,7 @@
 ![输入图片说明](img/%E6%89%8B%E5%8A%A8%E5%A4%87%E4%BB%BD%E6%95%B0%E6%8D%AE%E5%BA%93.png)
 
 # 三、运营
-##（一）站长工具
+## （一）站长工具
 ### Google收录工具（Google search console）
 - 创建google账户
 - 访问google search console
