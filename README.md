@@ -143,5 +143,34 @@
 - 3.手动备份数据库
 ![输入图片说明](img/%E6%89%8B%E5%8A%A8%E5%A4%87%E4%BB%BD%E6%95%B0%E6%8D%AE%E5%BA%93.png)
 
+# 三、运营
+##（一）站长工具
+### Google收录工具（Google search console）
+- 创建google账户
+- 访问google search console
+- 绑定网站域名
+![](img/%E5%AE%8C%E6%88%90%E5%9F%9F%E5%90%8D%E7%9A%84%E7%BB%91%E5%AE%9A.png)
 
+- 在wordpress的Rank Math SEO插件里sitemap找到创建本网站的站点地图
+![](img/Rank%20Math%20SEO.png)
 
+- 成功提交站点地图sitemap
+![](img/google%E6%8F%90%E4%BA%A4%E7%AB%99%E7%82%B9%E5%9C%B0%E5%9B%BE.png)
+
+- 网站成功被google收录，在google搜索里可以直接搜索到本网站--知识星球（12月28日）。
+![](img/google%E6%88%90%E5%8A%9F%E6%94%B6%E5%BD%95.png)
+
+- google成功收录10条网站信息（2024年1月4日）
+![](img/Google%E6%88%90%E5%8A%9F%E6%94%B6%E5%BD%9510%E6%9D%A1.png)
+
+### 必应（Bing）站长工具
+### 百度站长工具
+#### 尝试了两种方法：
+- 1.登录百度站长工具，添加网站，下载网页提供的xml文件，将该文件上载到注册网站的根目录下（12月27日）
+![百度站长添加网站](img/%E7%99%BE%E5%BA%A6%E7%AB%99%E9%95%BF%E6%B7%BB%E5%8A%A0%E7%BD%91%E7%AB%99.png)
+![百度站长验证成功](img/%E7%99%BE%E5%BA%A6%E7%AB%99%E9%95%BF%E9%AA%8C%E8%AF%81%E6%88%90%E5%8A%9F.png)
+- 手动提交：手动提交站点资源8条（12月27日）
+![](img/%E6%89%8B%E5%8A%A8%E6%8F%90%E4%BA%A4%E7%AB%99%E7%82%B9%E8%B5%84%E6%BA%90%EF%BC%88%E7%99%BE%E5%BA%A6%EF%BC%89.png)
+![](img/%E6%89%8B%E5%8A%A8%E6%8F%90%E4%BA%A4%E6%88%90%E5%8A%9F%EF%BC%88%E7%99%BE%E5%BA%A6%EF%BC%89.png)
+- 2.登录百度站长工具，选择通过html标签的验证方法，将其验证码贴入主体<head></head>里面，完成验证后提交sitemap（12月27日)。
+- 但目前在百度搜索里还是不能搜到我的网站（原因未知）
