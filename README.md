@@ -131,14 +131,17 @@
 ![SSL证书等级](img/SSL%E8%AF%81%E4%B9%A6%E7%AD%89%E7%BA%A7B.png)
 
 #### 网站备份
-- 使用wordpress自带工具备份配置文件
+- 1.使用wordpress自带工具备份配置文件
 ![网站备份](img/%E7%BD%91%E7%AB%99%E5%A4%87%E4%BB%BD.png)
+
+- 2.通过插件BackWPup插件进行备份数据库（sql文件）
+![BackWPup插件](img/BackWPup%E6%8F%92%E4%BB%B6.png)
+
+- 本地的备份记录截图
 ![备份记录](img/%E7%BD%91%E7%AB%99%E5%A4%87%E4%BB%BD1.png)
 
+- 3.手动备份数据库
+![输入图片说明](img/%E6%89%8B%E5%8A%A8%E5%A4%87%E4%BB%BD%E6%95%B0%E6%8D%AE%E5%BA%93.png)
 
-#### 参与贡献
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+
