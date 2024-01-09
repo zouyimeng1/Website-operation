@@ -252,7 +252,7 @@
 
 ## 凡科建站
 - 网站名称：知识星球
-- 网站链接：[](https://km29565154-1.jzfkw.net/)
+- 网站链接：[https://km29565154-1.jzfkw.net/](https://km29565154-1.jzfkw.net/)
 
 
 
