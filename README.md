@@ -138,6 +138,9 @@
 - SSL证书等级为B，中等偏上，但由于是申请的是免费的SSL服务，所以比较中规中矩。
 ![SSL证书等级](img/SSL%E8%AF%81%E4%B9%A6%E7%AD%89%E7%BA%A7B.png)
 
+- 使用WPSuperCache插件，在cache目录生成html静态资源，在用户访问网站的设备上自动生成网站缓存，优化用户的访问速度，提升用户体验感。
+![WPSuperCache插件](img/WP%20Super%20Cache%E6%8F%92%E4%BB%B6.png)
+
 #### 网站备份
 - 1.使用wordpress自带工具备份配置文件
 ![网站备份](img/%E7%BD%91%E7%AB%99%E5%A4%87%E4%BB%BD.png)
